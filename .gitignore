@@ -7,3 +7,6 @@ index.ts
 
 #mengecualikan file (lebih dari 1 file)
 *.html
+
+#mengabaikan semua file dengan ekstensi .py
+*.py
