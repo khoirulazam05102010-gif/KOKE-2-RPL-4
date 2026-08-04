@@ -1,0 +1,8 @@
+#mengecualikan folder
+clone projects git/
+
+#mengecualikan file
+*log.txt
+
+#mengecualikan file (lebih dari 1 file)
+*.html
