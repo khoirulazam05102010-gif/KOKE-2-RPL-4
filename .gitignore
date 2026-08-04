@@ -2,7 +2,8 @@
 clone projects git/
 
 #mengecualikan file
-*log.txt
+/log.txt
+index.ts
 
 #mengecualikan file (lebih dari 1 file)
 *.html
